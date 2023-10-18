@@ -7,5 +7,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: HelloWorld
-        run: echo "Hello, world"
+        run: git clone https://github.com/inti3156/Avanade.git      
 
