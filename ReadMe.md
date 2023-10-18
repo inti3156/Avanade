@@ -1,4 +1,5 @@
 # Avanade
+<<<<<<< HEAD
 Hello World!
 
 DevLog1
